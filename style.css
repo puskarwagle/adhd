@@ -25,6 +25,7 @@ body {
     padding: 10mm;
     box-sizing: border-box;
     background: white;
+    border: 2px solid red;
 }
 
 .page {
